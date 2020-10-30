@@ -1,0 +1,138 @@
+.first-container {
+    background-color: #545454;
+    color: #ffffff;
+    height: 650px;
+    text-align: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/Web\ Development.png);
+}
+
+.first {
+    padding-top: 130px;
+}
+
+.first i {
+    font-size: 70px;
+}
+
+.first-heading {
+    font-family: 'Dosis', sans-serif;
+    font-size: 130px;
+}
+
+.first h4 {
+    font-size: 45px;
+}
+
+@media (max-width:730px) {
+    .first-heading {
+        font-size: 70px;
+    }
+    .first h4 {
+        font-size: 30px;
+    }
+}
+
+.first-img {
+    width: 100%;
+    height: auto;
+}
+
+
+/* Navbar */
+
+.navbar-dark .navbar-brand {
+    color: black;
+    font-size: 30px;
+}
+
+.nav-item {
+    color: #fff;
+}
+
+.second-container {
+    padding-bottom: 60px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.second-heading {
+    font-weight: 900;
+    font-size: 75px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.second-img {
+    width: 100%;
+    height: 300px;
+}
+
+.second-para {
+    color: #545454;
+    font-size: 19px;
+}
+
+.third-container {
+    background-color: #ebebeb;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+}
+
+.third-heading {
+    text-align: center;
+    font-size: 75px;
+    padding-bottom: 30px;
+}
+
+.third-img {
+    width: 85%;
+    height: auto;
+}
+
+.third-container h2 {
+    font-size: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.fourth-container {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.fourth-img {
+    width: 85%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.fourth-heading {
+    font-size: 70px;
+    padding-bottom: 20px;
+}
+
+#work {
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    padding: 20px 0;
+    background-color: lightgray;
+}
+
+.fifth-container {}
+
+.fifth-heading {
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+
+.fifth-para {
+    font-size: 25px;
+    text-align: center;
+    color: gray;
+    padding-bottom: 30px;
+    margin: auto;
+}
